@@ -4,8 +4,8 @@
 
 [![Demo Langsung](https://img.shields.io/badge/Lihat%20Demo-Live-cyan?style=for-the-badge&logo=vercel)](https://ip-temp-app.vercel.app/)
 
-![Tangkapan Layar Aplikasi IP Temp](https://i.imgur.com/uGg0yV0.png) 
-*(Ini adalah gambar placeholder, ganti dengan screenshot aplikasi Anda yang sebenarnya)*
+![Desain tanpa judul (1)](https://github.com/user-attachments/assets/ddaa3960-bb15-493a-aff2-250693c021d5)
+
 
 ---
 
@@ -84,18 +84,8 @@ Ingin mencoba atau berkontribusi pada proyek ini? Ikuti langkah-langkah berikut:
 
 ## 📂 Struktur Proyek
 
-/
-├── public/               # Aset statis
-├── src/
-│   └── app/
-│       ├── globals.css   # CSS Global
-│       ├── layout.js     # Layout utama aplikasi
-│       └── page.js       # Komponen utama halaman depan
-├── .env.local            # File environment (rahasia, tidak di-commit)
-├── .gitignore            # Daftar file yang diabaikan oleh Git
-├── next.config.js        # Konfigurasi Next.js
-├── package.json          # Daftar dependensi dan skrip
-└── README.md             # Anda sedang membacanya
+![image](https://github.com/user-attachments/assets/292d2955-dae0-4bbe-b824-3dab95fa3ff5)
+
 
 ---
 
