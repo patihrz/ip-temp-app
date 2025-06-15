@@ -97,9 +97,6 @@ Ingin mencoba atau berkontribusi pada proyek ini? Ikuti langkah-langkah berikut:
 ├── package.json          # Daftar dependensi dan skrip
 └── README.md             # Anda sedang membacanya
 
-
-
-/├── public/               # Aset statis├── src/│   └── app/│       ├── globals.css   # CSS Global│       ├── layout.js     # Layout utama aplikasi│       └── page.js       # Komponen utama halaman depan├── .env.local            # File environment (rahasia, tidak di-commit)├── .gitignore            # Daftar file yang diabaikan oleh Git├── next.config.js        # Konfigurasi Next.js├── package.json          # Daftar dependensi dan skrip└── README.md             # Anda sedang membacanya
 ---
 
 ## 🤝 Kontribusi
