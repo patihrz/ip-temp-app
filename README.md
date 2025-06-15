@@ -15,8 +15,7 @@
 - **Antarmuka Modern:** UI yang bersih dan intuitif dengan dukungan _drag-and-drop_.
 - **Dukungan File Besar:** Mengunggah file hingga **500 MB**.
 - **Berbagi Instan:** Dapatkan link publik dan **QR Code** secara otomatis setelah unggahan selesai.
-- **Keamanan Berlapis:** - File berbahaya (seperti `.html`, `.js`, `.exe`) secara otomatis diblokir di sisi server.
-  - Link yang dihasilkan memaksa browser untuk men-download file, mencegah eksekusi skrip jahat.
+- **Keamanan Berlapis:** File berbahaya (seperti `.html`, `.js`, `.exe`) secara otomatis diblokir di sisi server dan link yang dihasilkan memaksa browser untuk men-download file.
 - **Dibangun di Atas Infrastruktur Andal:** Didukung penuh oleh Google Cloud Platform untuk kecepatan dan ketersediaan yang terjamin.
 
 ---
@@ -85,21 +84,7 @@ Ingin mencoba atau berkontribusi pada proyek ini? Ikuti langkah-langkah berikut:
 
 ## 📂 Struktur Proyek
 
-
-/
-├── public/               # Aset statis
-├── src/
-│   └── app/
-│       ├── globals.css   # CSS Global
-│       ├── layout.js     # Layout utama aplikasi
-│       └── page.js       # Komponen utama halaman depan
-├── .env.local            # File environment (rahasia, tidak di-commit)
-├── .gitignore            # Daftar file yang diabaikan oleh Git
-├── next.config.js        # Konfigurasi Next.js
-├── package.json          # Daftar dependensi dan skrip
-└── README.md             # Anda sedang membacanya :)
-
-
+/├── public/               # Aset statis├── src/│   └── app/│       ├── globals.css   # CSS Global│       ├── layout.js     # Layout utama aplikasi│       └── page.js       # Komponen utama halaman depan├── .env.local            # File environment (rahasia, tidak di-commit)├── .gitignore            # Daftar file yang diabaikan oleh Git├── next.config.js        # Konfigurasi Next.js├── package.json          # Daftar dependensi dan skrip└── README.md             # Anda sedang membacanya :)
 ---
 
 ## 🤝 Kontribusi
