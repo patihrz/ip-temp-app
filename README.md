@@ -99,6 +99,3 @@ Kontribusi dalam bentuk apa pun sangat diterima! Jika Anda menemukan bug atau me
 
 
 Proyek ini dilisensikan di bawah **MIT License**. Lihat file `LICENSE` untuk detail lebih lanjut.
-
-Proyek ini dilisensikan di bawah **MIT License**. Lihat file `LICENSE` untuk detail lebih lanjut.
-
